@@ -40,4 +40,5 @@ plugins {
             // مكتبة Material Dialogs مع Color Picker
             implementation "com.afollestad.material-dialogs:core:3.3.0"
             implementation "com.afollestad.material-dialogs:color:3.3.0"
+            implementation 'androidx.test.ext:junit-ktx:1.2.1'
         }
