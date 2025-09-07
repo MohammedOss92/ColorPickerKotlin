@@ -41,4 +41,5 @@ plugins {
             implementation "com.afollestad.material-dialogs:core:3.3.0"
             implementation "com.afollestad.material-dialogs:color:3.3.0"
             implementation 'androidx.test.ext:junit-ktx:1.2.1'
+            implementation 'androidx.constraintlayout:constraintlayout:1.1.1'
         }
